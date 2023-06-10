@@ -6,4 +6,4 @@
 ## Permissions:
 
 ![Rongmario Avatar](https://avatars.githubusercontent.com/u/3684700?v=4&s=128)
-### [Rongmario](permission/rongmario.md)
+### [Rongmario](profile/permission/rongmario.md)
